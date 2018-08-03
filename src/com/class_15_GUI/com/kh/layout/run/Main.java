@@ -4,6 +4,9 @@ import com.class_15_GUI.com.kh.layout.view.A_BorderLayout;
 import com.class_15_GUI.com.kh.layout.view.B_FlowLayout;
 import com.class_15_GUI.com.kh.layout.view.C_GridLayout;
 import com.class_15_GUI.com.kh.layout.view.D_CardLayout;
+import com.class_15_GUI.com.kh.layout.view.E_GridBagLayout;
+import com.class_15_GUI.com.kh.layout.view.F_NullLayout;
+import com.class_15_GUI.com.kh.layout.view.G_PanelLayout;
 
 public class Main {
 
@@ -13,7 +16,10 @@ public class Main {
 //		new A_BorderLayout();
 //		new B_FlowLayout();
 //		new C_GridLayout();
-		new D_CardLayout();
+//		new D_CardLayout();
+//		new E_GridBagLayout();
+//		new F_NullLayout();
+		new G_PanelLayout();
 	}
 
 }
